@@ -33,9 +33,9 @@ return {
   CursorColumn = { bg = c.fg_dark0 },
   CursorLine = { bg = c.fg_dark0 },
   Directory = { fg = c.secondary },
-  CursorLineNr = { fg = c.fg_dark1 },
+  CursorLineNr = { bg = c.fg_dark0, fg = c.fg_dark1 },
   WinBar = { bg = c.bg, fg = c.fg },                                                                                
-  WinBarNC = { bg = c.bg, fg = c.fg }, 
+  WinBarNC = { bg = c.bg, fg = c.fg },
 
   -- Conventional vim highlights
   Identifier = { fg = c.fg },
