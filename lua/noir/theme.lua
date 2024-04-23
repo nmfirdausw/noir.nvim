@@ -85,4 +85,5 @@ return {
 
   -- Treesitter context
   TreesitterContext = { bg = c.bg_light },
+  TreesitterContextLineNumber = { bg = c.bg_light, fg = c.fg_dark },  
 }
