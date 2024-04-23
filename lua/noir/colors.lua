@@ -1,5 +1,5 @@
 return {
-  bg = "#0c0b0a",
+  bg = "#141416",
   bg1 = "#0d0b0a",
   bg_light = "#171513",
   fg_dark = "#3C4043",
