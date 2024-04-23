@@ -3,7 +3,7 @@ return {
   bg1 = "#0d0b0a",
   bg_light = "#171513",
   fg_dark = "#3C4043",
-  fg_dark0 = "#282A2D",
+  fg_dark0 = "#222326",
   fg_dark1 = "#80868B",
   fg_dark2 = "#9AA0A6",
   fg = "#a0a4a8",
